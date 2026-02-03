@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect fill="#0a0f1a" width="600" height="400"/>
+  <rect fill="#111827" x="20" y="20" width="560" height="360" rx="12"/>
+  <rect fill="#1e293b" x="40" y="60" width="520" height="30" rx="4"/>
+  <rect fill="#1e293b" x="40" y="110" width="520" height="200" rx="8"/>
+  <rect fill="#3b82f6" x="60" y="130" width="120" height="20" rx="4"/>
+  <rect fill="#06b6d4" x="200" y="130" width="80" height="20" rx="4"/>
+  <rect fill="#1e293b" x="60" y="170" width="480" height="1"/>
+  <rect fill="#374151" x="60" y="190" width="480" height="16" rx="2"/>
+  <rect fill="#374151" x="60" y="220" width="480" height="16" rx="2"/>
+  <rect fill="#374151" x="60" y="250" width="480" height="16" rx="2"/>
+  <text x="300" y="340" text-anchor="middle" fill="#3b82f6" font-family="system-ui" font-size="28" font-weight="bold">FACTURADOR</text>
+  <text x="300" y="370" text-anchor="middle" fill="#64748b" font-family="system-ui" font-size="14">UI Software Empresarial</text>
+</svg>
